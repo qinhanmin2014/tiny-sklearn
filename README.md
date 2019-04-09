@@ -11,6 +11,8 @@
 - Under construction.
 
 ## Table of Contents
+- cluster (sklearn.cluster)
+  * [DBSCAN](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/cluster/DBSCAN.ipynb)
 - decomposition (sklearn.decomposition)
   * [PCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/PCA.ipynb)
 - linear\_model (sklearn.linear\_model)
