@@ -18,3 +18,5 @@
 - linear\_model (sklearn.linear\_model)
   * [LinearRegression](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/LinearRegression.ipynb)
   * [Ridge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/Ridge.ipynb)
+- naive\_bayes (sklearn.naive\_bayes)
+  * [GaussianNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/GaussianNB.ipynb)
