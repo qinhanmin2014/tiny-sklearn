@@ -26,6 +26,8 @@
   * [OneVsOneClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsOneClassifier.ipynb)
   * [OneVsRestClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsRestClassifier.ipynb)
 - naive\_bayes (sklearn.naive\_bayes)
+  * [BernoulliNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/BernoulliNB.ipynb)
+  * [ComplementNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/ComplementNB.ipynb)
   * [GaussianNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/GaussianNB.ipynb)
   * [MultinomialNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/MultinomialNB.ipynb)
 - preprocessing (sklearn.preprocessing)
