@@ -26,6 +26,8 @@
   * [KNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/KNeighborsClassifier.ipynb)
   * [KNeighborsRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/KNeighborsRegressor.ipynb)
   * [NearestNeighbors](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/NearestNeighbors.ipynb)
+  * [RadiusNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsClassifier.ipynb)
+  * [RadiusNeighborsRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsRegressor.ipynb)
 - **multiclass** (sklearn.multiclass)
   * [OneVsOneClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsOneClassifier.ipynb)
   * [OneVsRestClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsRestClassifier.ipynb)
