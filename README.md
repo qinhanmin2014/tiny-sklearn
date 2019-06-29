@@ -13,6 +13,8 @@
 ## Table of Contents
 - cluster (sklearn.cluster)
   * [DBSCAN](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/cluster/DBSCAN.ipynb)
+- covariance(sklearn.covariance)
+  * [EmpiricalCovariance](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/covariance/EmpiricalCovariance.ipynb)
 - decomposition (sklearn.decomposition)
   * [KernelPCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/KernelPCA.ipynb)
   * [PCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/PCA.ipynb)
