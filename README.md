@@ -18,6 +18,8 @@
 - decomposition (sklearn.decomposition)
   * [KernelPCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/KernelPCA.ipynb)
   * [PCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/PCA.ipynb)
+- discriminant_analysis (sklearn.discriminant_analysis)
+  * [LinearDiscriminantAnalysis](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/discriminant_analysis/LinearDiscriminantAnalysis.ipynb)
 - ensemble (sklearn.ensemble)
   * [BaggingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingClassifier.ipynb)
   * [BaggingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingRegressor.ipynb)
