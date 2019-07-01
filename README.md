@@ -25,6 +25,8 @@
   * [BaggingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingRegressor.ipynb)
   * [VotingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingClassifier.ipynb)
   * [VotingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingRegressor.ipynb)
+- impute (sklearn.inpute)
+  * [SimpleImputer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/SimpleImputer.ipynb)
 - **kernel\_ridge** (sklearn.kernel\_ridge)
   * [KernelRidge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/kernel_ridge/KernelRidge.ipynb)
 - linear\_model (sklearn.linear\_model)
