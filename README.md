@@ -46,6 +46,8 @@
   * [precision_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/precision_score.ipynb)
   * [r2_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/r2_score.ipynb)
   * [recall_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/recall_score.ipynb)
+- mixture (sklearn.mixture)
+  * [GaussianMixture](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/mixture/GaussianMixture.ipynb)
 - neighbors (sklearn.neighbors)
   * [KNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/KNeighborsClassifier.ipynb)
   * [KNeighborsRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/KNeighborsRegressor.ipynb)
