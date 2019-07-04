@@ -8,26 +8,30 @@
 - Roughly follow the structure of scikit-learn.
 - Roughly follow the API standard of scikit-learn.
 - Results are compared with scikit-learn.
-- Under construction.
 
 ## Table of Contents
+- calibration (sklearn.calibration)
 - cluster (sklearn.cluster)
   * [DBSCAN](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/cluster/DBSCAN.ipynb)
-- covariance(sklearn.covariance)
+- **covariance** (sklearn.covariance)
   * [EmpiricalCovariance](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/covariance/EmpiricalCovariance.ipynb)
 - decomposition (sklearn.decomposition)
   * [KernelPCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/KernelPCA.ipynb)
   * [PCA](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/decomposition/PCA.ipynb)
-- discriminant_analysis (sklearn.discriminant_analysis)
+- **discriminant\_analysis** (sklearn.discriminant\_analysis)
   * [LinearDiscriminantAnalysis](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/discriminant_analysis/LinearDiscriminantAnalysis.ipynb)
+- dummy (sklearn.dummy)
 - ensemble (sklearn.ensemble)
   * [BaggingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingClassifier.ipynb)
   * [BaggingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingRegressor.ipynb)
   * [VotingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingClassifier.ipynb)
   * [VotingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingRegressor.ipynb)
-- impute (sklearn.inpute)
+- feature\_extraction (sklearn.feature\_extraction)
+- feature\_selection (sklearn.feature\_selection)
+- **impute** (sklearn.inpute)
   * [MissingIndicator](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/MissingIndicator.ipynb)
   * [SimpleImputer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/SimpleImputer.ipynb)
+- inspection (sklearn.inspection)
 - **kernel\_ridge** (sklearn.kernel\_ridge)
   * [KernelRidge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/kernel_ridge/KernelRidge.ipynb)
 - linear\_model (sklearn.linear\_model)
@@ -35,18 +39,21 @@
   * [LogisticRegression](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/LogisticRegression.ipynb)
   * [Ridge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/Ridge.ipynb)
   * [RidgeClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/RidgeClassifier.ipynb)
-- metrics (sklearn.metrics)
+- metrics (sklearn.metrics) - classification metrics
   * [accuracy_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/accuracy_score.ipynb)
   * [confusion_matrix](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/confusion_matrix.ipynb)
   * [f1_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/f1_score.ipynb)
   * [fbeta_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/fbeta_score.ipynb)
   * [multilabel_confusion_matrix](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/multilabel_confusion_matrix.ipynb)
+  * [precision_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/precision_score.ipynb)
+  * [recall_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/recall_score.ipynb)
+- metrics (sklearn.metrics) - regression metrics
+  * [r2_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/r2_score.ipynb)
+- metrics (sklearn.metrics) - clustring metrics
+- metrics (sklearn.metrics) - pairwise metrics
   * [pairwise.linear_kernel](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/linear_kernel.ipynb)
   * [pairwise.rbf_kernel](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/rbf_kernel.ipynb)
-  * [precision_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/precision_score.ipynb)
-  * [r2_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/r2_score.ipynb)
-  * [recall_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/recall_score.ipynb)
-- mixture (sklearn.mixture)
+- **mixture** (sklearn.mixture)
   * [GaussianMixture](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/mixture/GaussianMixture.ipynb)
 - neighbors (sklearn.neighbors)
   * [KNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/KNeighborsClassifier.ipynb)
@@ -54,6 +61,9 @@
   * [NearestNeighbors](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/NearestNeighbors.ipynb)
   * [RadiusNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsClassifier.ipynb)
   * [RadiusNeighborsRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsRegressor.ipynb)
+- model\_selection (sklearn.model\_selection) - splitter classes
+- model\_selection (sklearn.model\_selection) - hyper-parameter optimizers
+- model\_selection (sklearn.model\_selection) - model validation
 - **multiclass** (sklearn.multiclass)
   * [OneVsOneClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsOneClassifier.ipynb)
   * [OneVsRestClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsRestClassifier.ipynb)
@@ -63,6 +73,7 @@
   * [ComplementNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/ComplementNB.ipynb)
   * [GaussianNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/GaussianNB.ipynb)
   * [MultinomialNB](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/naive_bayes/MultinomialNB.ipynb)
+- neural\_network (sklearn.neural\_network)
 - preprocessing (sklearn.preprocessing)
   * [KernelCenterer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/KernelCenterer.ipynb)
   * [LabelBinarizer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/LabelBinarizer.ipynb)
@@ -72,3 +83,5 @@
   * [Normalizer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/Normalizer.ipynb)
   * [RobustScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/RobustScaler.ipynb)
   * [StandardScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/StandardScaler.ipynb)
+- svm (sklearn.svm)
+- tree (sklearn.tree)
