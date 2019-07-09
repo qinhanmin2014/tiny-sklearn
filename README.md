@@ -70,11 +70,13 @@
   * [NearestNeighbors](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/NearestNeighbors.ipynb)
   * [RadiusNeighborsClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsClassifier.ipynb)
   * [RadiusNeighborsRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/neighbors/RadiusNeighborsRegressor.ipynb)
-- **model_selection** (sklearn.model_selection) - splitter classes
+- **model_selection** (sklearn.model_selection) - splitter classes / functions
   * [KFold](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/KFold.ipynb)
   * [ShuffleSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/ShuffleSplit.ipynb)
   * [StratifiedKFold](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/StratifiedKFold.ipynb)
+  * [StratifiedShuffleSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/StratifiedShuffleSplit.ipynb)
   * [TimeSeriesSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/TimeSeriesSplit.ipynb)
+  * [train_test_split](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/train_test_split.ipynb)
 - model_selection (sklearn.model_selection) - hyper-parameter optimizers
 - model_selection (sklearn.model_selection) - model validation
 - **multiclass** (sklearn.multiclass)
