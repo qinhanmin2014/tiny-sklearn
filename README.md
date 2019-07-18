@@ -27,6 +27,8 @@
 - ensemble (sklearn.ensemble)
   * [BaggingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingClassifier.ipynb)
   * [BaggingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/BaggingRegressor.ipynb)
+  * [RandomForestClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/RandomForestClassifier.ipynb)
+  * [RandomForestRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/RandomForestRegressor.ipynb)
   * [VotingClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingClassifier.ipynb)
   * [VotingRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/ensemble/VotingRegressor.ipynb)
 - **feature_extraction** (sklearn.feature_extraction)
