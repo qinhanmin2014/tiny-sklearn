@@ -42,6 +42,7 @@
   * [MissingIndicator](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/MissingIndicator.ipynb)
   * [SimpleImputer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/SimpleImputer.ipynb)
 - inspection (sklearn.inspection)
+  * [permutation_importance](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/inspection/permutation_importance.ipynb)
 - **kernel_ridge** (sklearn.kernel_ridge)
   * [KernelRidge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/kernel_ridge/KernelRidge.ipynb)
 - linear_model (sklearn.linear_model)
