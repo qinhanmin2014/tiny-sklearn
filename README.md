@@ -11,6 +11,7 @@
 
 ## Table of Contents
 - calibration (sklearn.calibration)
+  * [CalibratedClassifierCV](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/calibration/CalibratedClassifierCV.ipynb)
 - cluster (sklearn.cluster)
   * [DBSCAN](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/cluster/DBSCAN.ipynb)
 - **covariance** (sklearn.covariance)
