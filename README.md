@@ -10,7 +10,8 @@
 - Results are compared with scikit-learn.
 
 ## Table of Contents
-- calibration (sklearn.calibration)
+- **calibration** (sklearn.calibration)
+  * [calibration_curve](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/calibration/calibration_curve.ipynb)
   * [CalibratedClassifierCV](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/calibration/CalibratedClassifierCV.ipynb)
 - cluster (sklearn.cluster)
   * [DBSCAN](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/cluster/DBSCAN.ipynb)
