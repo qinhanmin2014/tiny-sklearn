@@ -108,4 +108,5 @@
   * [RobustScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/RobustScaler.ipynb)
   * [StandardScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/StandardScaler.ipynb)
 - svm (sklearn.svm)
+  * [LinearSVC](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/svm/LinearSVC.ipynb)
 - tree (sklearn.tree)
