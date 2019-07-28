@@ -64,12 +64,15 @@
   * [multilabel_confusion_matrix](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/multilabel_confusion_matrix.ipynb)
   * [precision_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/precision_score.ipynb)
   * [recall_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/recall_score.ipynb)
-- **metrics (sklearn.metrics)** - regression metrics
+- **metrics** (sklearn.metrics) - regression metrics
   * [mean_absolute_error](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/mean_absolute_error.ipynb)
   * [mean_squared_error](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/mean_squared_error.ipynb)
   * [median_absolute_error](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/median_absolute_error.ipynb)
   * [r2_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/r2_score.ipynb)
-- metrics (sklearn.metrics) - pairwise metrics
+- **metrics** (sklearn.metrics) - pairwise metrics
+  * [cosine_distances](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/cosine_distances.ipynb)
+  * [cosine_similarity](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/cosine_similarity.ipynb)
+  * [euclidean_distances](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/euclidean_distances.ipynb)
   * [linear_kernel](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/linear_kernel.ipynb)
   * [rbf_kernel](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/rbf_kernel.ipynb)
 - **mixture** (sklearn.mixture)
