@@ -58,6 +58,7 @@
   * [SGDRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/SGDRegressor.ipynb) 
 - metrics (sklearn.metrics) - classification metrics
   * [accuracy_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/accuracy_score.ipynb)
+  * [brier_score_loss](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/brier_score_loss.ipynb)
   * [confusion_matrix](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/confusion_matrix.ipynb)
   * [f1_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/f1_score.ipynb)
   * [fbeta_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/metrics/fbeta_score.ipynb)
