@@ -94,9 +94,11 @@
   * [TimeSeriesSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/TimeSeriesSplit.ipynb)
   * [train_test_split](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/train_test_split.ipynb)
 - model_selection (sklearn.model_selection) - hyper-parameter optimizers
-- model_selection (sklearn.model_selection) - model validation
+- **model_selection** (sklearn.model_selection) - model validation
   * [cross_val_predict](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/cross_val_predict.ipynb)
   * [cross_val_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/cross_val_score.ipynb)
+  * [learning_curve](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/learning_curve.ipynb)
+  * [validation_curve](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/validation_curve.ipynb)
 - **multiclass** (sklearn.multiclass)
   * [OneVsOneClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsOneClassifier.ipynb)
   * [OneVsRestClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/multiclass/OneVsRestClassifier.ipynb)
