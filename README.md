@@ -42,6 +42,7 @@
   * [TfidfTransformer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/feature_extraction/TfidfTransformer.ipynb)
   * [TfidfVectorizer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/feature_extraction/TfidfVectorizer.ipynb)
 - feature_selection (sklearn.feature_selection)
+  * [VarianceThreshold](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/feature_selection/VarianceThreshold.ipynb)
 - **impute** (sklearn.inpute)
   * [MissingIndicator](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/MissingIndicator.ipynb)
   * [SimpleImputer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/impute/SimpleImputer.ipynb)
