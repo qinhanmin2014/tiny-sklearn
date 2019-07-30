@@ -128,6 +128,7 @@
   * [Normalizer](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/Normalizer.ipynb)
   * [RobustScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/RobustScaler.ipynb)
   * [StandardScaler](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/preprocessing/StandardScaler.ipynb)
-- svm (sklearn.svm)
+- **svm** (sklearn.svm)
   * [LinearSVC](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/svm/LinearSVC.ipynb)
+  * [SVC](https://nbviewer.jupyter.org/github/qinhanmin2014/Machine-Learning-in-Action/blob/master/06%20Support%20vector%20machines/svmMLiA.ipynb) (difficult to obtain similar results compared with LIBSVM/ scikit-learn)
 - tree (sklearn.tree)
