@@ -93,7 +93,8 @@
   * [StratifiedShuffleSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/StratifiedShuffleSplit.ipynb)
   * [TimeSeriesSplit](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/TimeSeriesSplit.ipynb)
   * [train_test_split](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/train_test_split.ipynb)
-- model_selection (sklearn.model_selection) - hyper-parameter optimizers
+- **model_selection** (sklearn.model_selection) - hyper-parameter optimizers
+  * [GridSearchCV](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/GridSearchCV.ipynb)
 - **model_selection** (sklearn.model_selection) - model validation
   * [cross_val_predict](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/cross_val_predict.ipynb)
   * [cross_val_score](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/model_selection/cross_val_score.ipynb)
