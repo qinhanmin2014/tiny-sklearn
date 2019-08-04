@@ -136,3 +136,4 @@
   * [LinearSVC](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/svm/LinearSVC.ipynb)
   * [SVC](https://nbviewer.jupyter.org/github/qinhanmin2014/Machine-Learning-in-Action/blob/master/06%20Support%20vector%20machines/svmMLiA.ipynb) (difficult to obtain similar results compared with LIBSVM/ scikit-learn)
 - tree (sklearn.tree)
+  * [DecisionTreeRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/tree/DecisionTreeRegressor.ipynb)
