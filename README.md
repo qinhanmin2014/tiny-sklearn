@@ -62,6 +62,7 @@
   * [LogisticRegression](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/LogisticRegression.ipynb)
   * [Ridge](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/Ridge.ipynb)
   * [RidgeClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/RidgeClassifier.ipynb)
+  * [RidgeCV](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/RidgeCV.ipynb)
   * [SGDClassifier](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/SGDClassifier.ipynb) 
   * [SGDRegressor](https://nbviewer.jupyter.org/github/qinhanmin2014/tiny-sklearn/blob/master/linear_model/SGDRegressor.ipynb) 
 - **metrics** (sklearn.metrics) - classification metrics
